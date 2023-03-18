@@ -1,4 +1,7 @@
-﻿# SpaceWarp Template for .NET
+# Important
+This is a fork that is integrated into the KerbalDev Rider plugin. If you use Rider, [download KerbalDev](https://github.com/arthomnix/KerbalDev/releases/latest). If you use Visual Studio or dotnet cli, download the [original template](https://github.com/jan-bures/SpaceWarp.Template).
+
+# SpaceWarp Template for .NET
 This project serves as a SpaceWarp mod project template for the .NET CLI and Visual Studio.
 
 ## Requirements
